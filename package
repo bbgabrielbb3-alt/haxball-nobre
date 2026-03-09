@@ -1,0 +1,11 @@
+{
+  "name": "haxball-nobre",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "haxball.js": "^2.1.2"
+  }
+}
